@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-       print 'this is the removal of test';
+       print 'new dev branch';
         ?>
     </body>
 </html>
