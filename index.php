@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-       print 'here is the test';
+       print 'this is the removal of test';
         ?>
     </body>
 </html>
